@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 
 -->
-- 🔭 I’m currently working for Avnir Energy (and Sonorhc technologies starting in October)
-- 🌱 I’m currently learning Machine Learning
+- 🔭 I’m currently working for Sonorhc technologies
+- 🌱 I’m working on AI project (Shooting detection in urban area)
 - 👯 I’m looking to collaborate on AI project
 - 📫 How to reach me: s.alidadi@avnir-energy.fr
