@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 
 -->
-- 🔭 I’m currently working for Sonorhc technologies
+- 🔭 I’m currently working for Sonorhc technologies as Head of AI
 - 🌱 I’m working on AI project (Shooting detection in urban area)
 - 👯 I’m looking to collaborate on AI project
-- 📫 How to reach me: s.alidadi@avnir-energy.fr
+- 📫 How to reach me: schalidadi465@gmail.com
